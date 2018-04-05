@@ -1,19 +1,20 @@
 ---
 layout:     post
-title:      从一道网易面试题浅谈 Tagged Pointer
-subtitle:   浅谈 Tagged Pointer
-date:       2017-12-26
-author:     BY
+title:      Gradle
+subtitle:   浅谈构建工具
+date:       2018-04-05
+author:     MrCodeSniper
 header-img: img/post-bg-universe.jpg
 catalog: true
 tags:
-    - iOS
+    - android
+    - gradle
 ---
 
 
 ## 前言
 
-这篇博客九月就想写了，因为赶项目拖了到现在，抓住17年尾巴写吧~
+AndroidStudio中第一使用的工程构建工具，明白这个能便捷我们之后的开发
 
 
 ## 正文
