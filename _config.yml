@@ -1,10 +1,10 @@
 # Site settings
-title: BY Blog
-SEOTitle: 陈鸿的博客 | BY Blog
+title: MY Blog
+SEOTitle: 陈鸿的博客 | MY Blog
 header-img: img/post-bg-desk.jpg
 email: 15168264355@163.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 陈鸿的博客, codesniper, 陈鸿, android, google"
+keyword: "MY, MY Blog, 陈鸿的博客, codesniper, 陈鸿, android, google"
 url: "http://mrcodesniper.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/MrCodeSniper/MrCodeSniper.github.io.git" # you code repository
@@ -99,8 +99,8 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "MY",
+        href: "https://blog.csdn.net/s63857952"
     },{
         title: "简书·BY",
         href: "http://www.jianshu.com/u/e71990ada2fd"
