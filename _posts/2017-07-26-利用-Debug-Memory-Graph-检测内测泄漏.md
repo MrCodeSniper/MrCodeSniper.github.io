@@ -8,8 +8,8 @@ header-img: img/post-bg-hacker.jpg
 catalog: true
 tags:
     - android
-    - ReactiveCocoa
-    - 函数式编程
+    - 内存泄漏
+    - 源码解析
     - 开源工具
 ---
 
