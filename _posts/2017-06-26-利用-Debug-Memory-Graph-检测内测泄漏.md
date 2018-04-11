@@ -2,7 +2,7 @@
 layout:     post
 title:   利用 LeakCanary 检测内测泄漏
 subtitle:   原理解析
-date:       2017-07-26
+date:       2017-06-26
 author:     MrCodeSniper
 header-img: img/post-bg-hacker.jpg
 catalog: true
