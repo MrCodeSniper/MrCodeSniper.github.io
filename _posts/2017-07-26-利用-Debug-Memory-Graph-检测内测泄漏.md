@@ -7,10 +7,10 @@ author:     MrCodeSniper
 header-img: img/post-bg-hacker.jpg
 catalog: true
 tags:
-    - iOS
+    - android
     - ReactiveCocoa
     - 函数式编程
-    - 开源框架
+    - 开源工具
 ---
 
 
