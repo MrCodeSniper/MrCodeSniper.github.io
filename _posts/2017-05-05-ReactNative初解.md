@@ -8,8 +8,8 @@ header-img: img/post-bg-swift.jpg
 catalog: true
 tags:
     - android
-    - 前端
-    - react-native
+    - 前端
+    - react_native
 ---
 
 
