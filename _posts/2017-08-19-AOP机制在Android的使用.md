@@ -2,7 +2,7 @@
 layout:     post
 title:      AOP机制在Android的使用
 subtitle:   之注解实现
-date:       2017-07-19
+date:       2017-08-19
 author:     MrCodeSniper
 header-img: img/post-bg-hacker.jpg
 catalog: true
