@@ -1,16 +1,16 @@
 ---
 layout:     post
-title:    利用 LeakCanary 检测内测泄漏
+title:   利用 LeakCanary 检测内测泄漏
 subtitle:   原理解析
 date:       2017-07-26
 author:     MrCodeSniper
 header-img: img/post-bg-hacker.jpg
 catalog: true
 tags:
-    - iOS
-    - ReactiveCocoa
-    - 函数式编程
-    - 开源框架
+    - 原理
+    - 内存泄漏
+    - android
+    - 开源工具
 ---
 
 
