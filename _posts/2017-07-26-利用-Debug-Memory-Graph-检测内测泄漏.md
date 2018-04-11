@@ -7,10 +7,10 @@ author:     MrCodeSniper
 header-img: img/post-bg-hacker.jpg
 catalog: true
 tags:
-    - 原理
-    - 内存泄漏
-    - android
-    - 开源工具
+    - iOS
+    - ReactiveCocoa
+    - 函数式编程
+    - 开源框架
 ---
 
 
