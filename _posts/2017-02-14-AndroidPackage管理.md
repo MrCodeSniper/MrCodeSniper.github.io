@@ -12,7 +12,7 @@ tags:
     - vlog
 ---
 
->Apk: AndroidPackage
+>三大部分：1.打包成apk 2.apk安装 3.打开图标进入Activity间发生了什么
 
 
 
