@@ -7,8 +7,8 @@ author:     MrCodeSniper
 header-img: img/post-bg-2015.jpg
 catalog: true
 tags:
-    - 我
-    - 生活
+    - Pacakge
+    - android
     - vlog
 ---
 
