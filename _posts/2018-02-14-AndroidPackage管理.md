@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      AndroidPackage管理
-subtitle:   2017 情人节快乐~ 
-date:       2017-02-14
+title:      AndroidPackage机制
+subtitle:   From Common Situation
+date:       2018-02-14
 author:     MrCodeSniper
 header-img: img/post-bg-2015.jpg
 catalog: true
